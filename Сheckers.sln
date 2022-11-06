@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Сheckers", "Сheckers\Сheckers.vcxproj", "{7A003AB7-451D-4E64-A543-F44AF6B33BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Debug|x64.ActiveCfg = Debug|x64
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Debug|x64.Build.0 = Debug|x64
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Debug|x86.Build.0 = Debug|Win32
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Release|x64.ActiveCfg = Release|x64
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Release|x64.Build.0 = Release|x64
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Release|x86.ActiveCfg = Release|Win32
+		{7A003AB7-451D-4E64-A543-F44AF6B33BAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E2925A8-A69F-4990-84C7-3826B4111C01}
+	EndGlobalSection
+EndGlobal
